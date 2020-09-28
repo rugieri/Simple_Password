@@ -26,10 +26,26 @@
 import string
 import secrets
 
-def secure_password_gen(passlength):
-    password = ''.join((secrets.choice(string.ascii_letters + string.hexdigits) for i in range(passlength)))
-    return password
+p = "y"
+while p=="y":
+	def secure_password_gen(passlength):
+		"""Makes a random password with combination of uppercase and lowcase letters,
+		numbers and some special digits
+		"""		
+		password = ''.join((secrets.choice(string.ascii_letters + string.digits + '!@#$%¨&*')
+		for i in range(passlength)))
+		return password 
+					
+	n = int(input("Enter length of password : "))
+	print('Password generated is :', secure_password_gen(n))
+	p = input("Push Y to generate another password or X to esc  ") 
+	
 
-n = int(input('Enter length of password : '))
-print('Password generated is :', secure_password_gen(n))
+else:
+	while  p != "x":
+		print("Sorry but you must press X to esc")
+		n = int(input("Enter length of password: "))
+		print('Password generated is :', secure_password_gen(n))
+		p = input("Push Y to generate another password or X to esc  ")
+		
 

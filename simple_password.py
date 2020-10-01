@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  simple_pyssword.py
+#  simple_password.py
 #  
 #  Copyright 2020 
 #  

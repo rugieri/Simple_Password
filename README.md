@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ronaldo Rugieri - [@instagram_handle](https://www.instagram.com/ronaldo_rugieri) 
+Ronaldo Rugieri - https://www.instagram.com/ronaldo_rugieri 
 
 Project Link: [https://github.com/rugieri/Simple_Password](https://github.com/rugieri/Simple_Password)
 

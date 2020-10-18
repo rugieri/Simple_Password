@@ -29,7 +29,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?rugieri=USERNAME)
+[![RUGIERI's github stats](https://github-readme-stats.vercel.app/api?username=rugieri)](https://github.com/rugieri/github-readme-stats)
 
 <!-- PROJECT LOGO -->
 <br />

@@ -21,21 +21,21 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 [![RUGIERI's github stats](https://github-readme-stats.vercel.app/api?username=rugieri)](https://github.com/rugieri/github-readme-stats)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/rugieri/Simple_Password">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw1Gij4lMwxTEpXTaZbnIeEL&ust=1603125431939000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjV-eDJvuwCFQAAAAAdAAAAABAD" alt="Logo" width="80" height="80">
+    <img src="python-powered-h-140x182.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Simple_Password</h3>

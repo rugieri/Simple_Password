@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/@rugieri/Simple_Password">
+  <a href="https://github.com/rugieri/Simple_Password">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -44,14 +44,14 @@
     A simple python password generator that asks how lenght of the pass you want
 and returns a password using a combination of ASCII digits, numbers and special digits.
     <br />
-    <a href="https://github.com/@rugieri/Simple_Password"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rugieri/Simple_Password"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/@rugieri/Simple_Password">View Demo</a>
+    <a href="https://github.com/rugieri/Simple_Password">View Demo</a>
     ·
-    <a href="https://github.com/@rugieri/Simple_Password">Report Bug</a>
+    <a href="https://github.com/rugieri/Simple_Password">Report Bug</a>
     ·
-    <a href="https://github.com/@rugieri/Simple_Password">Request Feature</a>
+    <a href="https://github.com/rugieri/Simple_Password">Request Feature</a>
   </p>
 </p>
 
@@ -79,16 +79,12 @@ and returns a password using a combination of ASCII digits, numbers and special 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [x](Python 3.8)
+
 
 
 
@@ -99,22 +95,25 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+
+
 ```sh
-npm install npm@latest -g
+Import modules secrets and strings
 ```
 
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/@rugieri/Simple_Password.git
+git clone https://github.com/rugieri/Simple_Password.git
 ```
-2. Install NPM packages
+2. Install/Import modules
 ```sh
-npm install
+  2.1 "import secrets" - source:https://github.com/python/cpython/blob/3.9/Lib/secrets.py 
+  2.2 "import strings" - source:https://github.com/python/cpython/blob/3.9/Lib/string.py
+  
 ```
+
 
 
 
@@ -130,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/@rugieri/Simple_Password/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/rugieri/Simple_Password/issues) for a list of proposed features (and known issues).
 
 
 
@@ -157,9 +156,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Ronaldo Rugieri - [@instagram_handle](https://www.instagram.com/tracecea?r=rugieri) 
 
-Project Link: [https://github.com/@rugieri/Simple_Password](https://github.com/@rugieri/Simple_Password)
+Project Link: [https://github.com/rugieri/Simple_Password](https://github.com/rugieri/Simple_Password)
 
 
 
@@ -176,16 +175,16 @@ Project Link: [https://github.com/@rugieri/Simple_Password](https://github.com/@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/@rugieri/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/@rugieri/repo.svg?style=flat-square
-[forks-url]: https://github.com/@rugieri/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/@rugieri/repo.svg?style=flat-square
-[stars-url]: https://github.com/@rugieri/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/@rugieri/repo.svg?style=flat-square
-[issues-url]: https://github.com/@rugieri/repo/issues
-[license-shield]: https://img.shields.io/github/license/@rugieri/repo.svg?style=flat-square
-[license-url]: https://github.com/@rugieri/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/rugieri/repo.svg?style=flat-square
+[contributors-url]: https://github.com/rugieri/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rugieri/repo.svg?style=flat-square
+[forks-url]: https://github.com/rugieri/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/rugieri/repo.svg?style=flat-square
+[stars-url]: https://github.com/rugieri/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rugieri/repo.svg?style=flat-square
+[issues-url]: https://github.com/rugieri/repo/issues
+[license-shield]: https://img.shields.io/github/license/rugieri/repo.svg?style=flat-square
+[license-url]: https://github.com/rugieri/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/@rugieri
+[linkedin-url]: https://linkedin.com/in/rugieri
 [product-screenshot]: images/screenshot.png

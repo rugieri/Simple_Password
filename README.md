@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rugieri/Simple_Password">
-    <img src=https://www.python.org/static/community_logos/python-logo-master-v3-TM.png alt="Logo" width="80" height="80">
+    <img src=https://www.python.org/static/community_logos/python-logo-master-v3-TM.png alt="Logo" width="160" height="120">
   </a>
 
   <h3 align="center">Simple_Password</h3>
